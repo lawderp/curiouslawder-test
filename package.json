@@ -1,0 +1,36 @@
+{
+  "name": "curious-lawder",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.6.1",
+    "react-dom": "^16.6.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "@appbaseio/reactivesearch": "^2.12.1",
+    "loaders.css": "^0.1.2",
+    "material-icons-react": "^1.0.4",
+    "parse-address": "^1.1.0",
+    "react-loaders": "^3.0.1",
+    "react-transition-group": "^1.2.1",
+    "request": "^2.88.0",
+    "styled-components": "^4.0.3",
+    "util": "^0.11.1",
+    "xml2js": "^0.4.19"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
